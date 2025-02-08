@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "name": "emergingsigma",
+  "version": "1.0.0",
+  "description": "webiste for emergingsigma.com",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/satvikag2001/emergingsigma.git"
+  },
+  "keywords": [
+    "emergingsigma"
+  ],
+  "author": "satvik agrawal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/satvikag2001/emergingsigma/issues"
+  },
+  "homepage": "https://github.com/satvikag2001/emergingsigma#readme"
+}
